@@ -1,0 +1,16 @@
+final int myNum = 15;
+myNum = 20;  // will generate an error: cannot assign a value to a final variable
+
+
+const data = 10    // can not be editable 
+
+
+
+//display the var 
+
+String name = "John";
+System.out.println("Hello " + name);
+
+
+
+

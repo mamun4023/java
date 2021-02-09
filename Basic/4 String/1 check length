@@ -1,0 +1,21 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+   
+   
+   
+   
+   
+   String data = "please locale where is your location";
+   System.out.println(data.length());
+   
+   
+   
+   
+   
+   
+       
+}
+
+
+}

@@ -1,0 +1,3 @@
+int myMethod(int x)
+float myMethod(float x)
+double myMethod(double x, double y)ddd

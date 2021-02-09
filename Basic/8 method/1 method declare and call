@@ -1,0 +1,16 @@
+public class HelloWorld{
+    
+    // static refer method belongs to the main class
+    static void Method(){
+        System.out.println("This is method");
+    }
+
+     public static void main(String []args){
+   
+     Method();
+   
+   
+   
+       
+}
+}
