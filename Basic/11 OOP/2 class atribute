@@ -1,0 +1,16 @@
+//Create an object called "myObj" and print the value of x:
+
+public class Main {
+  int x = 5;
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    // access in attribute 
+    System.out.println(myObj.x);
+    
+    // modify the attribute
+    myObj.x = 20;
+    System.out.println(myObj.x);
+    
+  }
+}
