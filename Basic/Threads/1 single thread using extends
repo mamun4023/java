@@ -1,0 +1,13 @@
+public class Main extends Thread{
+    public static void main(String[] args){
+        System.out.println(" out of thread");
+        
+        Main thread = new Main();
+        thread.start();
+    }
+    
+    
+    public void run(){
+        System.out.println("Thread is open");
+    }
+}
